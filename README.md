@@ -76,7 +76,7 @@ Prefix of folders
 c – Course Descriptions  
 b – Badge Descriptions  
 d – Discussion Guide  
-s - Study Guide  
+s - Study Guide
 m - Manuscript  
 
 
