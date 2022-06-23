@@ -38,7 +38,6 @@ c – Описание курса
 b – Описание значков\бейджей  
 d – Гайд по обсуждению  
 s - Гайд по занятиям
-
 m - Манускрипты (текст материала)  
 
 ## ENG
@@ -78,6 +77,7 @@ c – Course Descriptions
 b – Badge Descriptions  
 d – Discussion Guide  
 s - Study Guide
+
 m - Manuscript  
 
 
